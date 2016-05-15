@@ -1,3 +1,3 @@
 # test
 
-Nikol se učí, jak funguje github
+Nikol se učí, jak fungujou commity
